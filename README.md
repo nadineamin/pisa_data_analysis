@@ -1,4 +1,3 @@
-# pisa_data_analysis
 # PISA 2012 Data 
 ## by Nadine Amin   
 
@@ -20,9 +19,9 @@
 
 > 'exploration_template.ipynb' is the Jupyter Notebook with both the exploratory and explanatory data analyses. The .html file is also included 'exploration_template.html'.
 
-> 'slide_deck_template.ipynb' is the Jupyter Notebook slideshow with the summary of the most important findings. The .html slideshow is also included 'slide_deck_template.html'.
+> 'slide_deck_template.ipynb' is the slideshow with the summary of the most important findings. The .html slideshow is also included 'slide_deck_template.html'.
 
-> 'output_toggle.tpl' is a file used in the 'slide_deck_template.ipynb' notebook to hide the code lines from the slideshow. 
+> 'output_toggle.tpl' is a file used in the 'slide_deck_template.ipynb' slideshow to hide the code lines from the slideshow. 
 
 > 'df.csv' is the file with the final results exported from the 'exploration_template.ipynb' notebook to be used in the 'slide_deck_template.ipynb' slideshow.
 
