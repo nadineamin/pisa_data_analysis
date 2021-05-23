@@ -7,7 +7,24 @@
 
 > PISA is a survey of students' skills and knowledge as they approach the end of compulsory education. It focuses on examining how well prepared the students are for life beyond school.
 
-> Around 510,000 students in 65 economies took part in the PISA 2012 assessment of reading, mathematics and science representing about 28 million 15-year-olds globally. Of those economies, 44 took part in an assessment of creative problem solving and 18 in an assessment of financial literacy.   
+> Around 510,000 students in 65 economies took part in the PISA 2012 assessment of reading, mathematics and science representing about 28 million 15-year-olds globally. Of those economies, 44 took part in an assessment of creative problem solving and 18 in an assessment of financial literacy.  
+
+
+## Files Used
+
+> 'pisa2012.csv' file is the original dataset. It was not attached in this project because the file was too large that it exceeded Github.s limit.
+
+> 'pisadict2012.csv' file is the dictionary for the original 'pisa2012.csv' dataset.
+
+> 'pisa_adj_cols.csv' file is the dictionary for only the chosen columns that were used in the data analysis project.
+
+> 'exploration_template.ipynb' is the Jupyter Notebook with both the exploratory and explanatory data analyses. The .html file is also included 'exploration_template.html'.
+
+> 'slide_deck_template.ipynb' is the Jupyter Notebook slideshow with the summary of the most important findings. The .html slideshow is also included 'slide_deck_template.html'.
+
+> 'output_toggle.tpl' is a file used in the 'slide_deck_template.ipynb' notebook to hide the code lines from the slideshow. 
+
+> 'df.csv' is the file with the final results exported from the 'exploration_template.ipynb' notebook to be used in the 'slide_deck_template.ipynb' slideshow.
 
 
 ## Summary of Findings  
