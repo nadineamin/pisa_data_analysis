@@ -25,6 +25,17 @@
 
 > 'df.csv' is the file with the final results exported from the 'exploration_template.ipynb' notebook to be used in the 'slide_deck_template.ipynb' slideshow.
 
+## Libraries Versions Used
+
+> python      3.7.10
+
+> numpy       1.20.2
+
+> matplotlib  3.3.4
+
+> pandas      1.2.4
+
+> seaborn    0.11.1
 
 ## Summary of Findings  
 
