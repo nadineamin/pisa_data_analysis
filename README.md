@@ -52,4 +52,4 @@
 
 ## Key Insights for Presentation  
 
-> In the presentation, I will show the plots that had an effect on the total score the most. Those include the bivariate plots of the variables mentioned above against the total score. I will also include the multivariate plot of the father and mother's jobs vs. the number of cellphones vs. the total score.
+> In the presentation, I displayed the plots that affected the total scores the most. Those included the bivariate plots of the variables mentioned above against the total score. I also included the multivariate plot of the father and mother's jobs vs. the number of cellphones vs. the total score.
