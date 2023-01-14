@@ -11,7 +11,7 @@
 
 ## Files Used
 
-> 'pisa2012.csv' file is the original dataset. It was not attached in this project because the file was too large that it exceeded Github.s limit.
+> 'pisa2012.csv' file is the original dataset. It was not attached in this project because the file size exceeded Github's limit.
 
 > 'pisadict2012.csv' file is the dictionary for the original 'pisa2012.csv' dataset.
 
